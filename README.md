@@ -1,6 +1,9 @@
 ![logo](https://github.com/ArMOUNO/ArMouno/blob/main/Mnbanner.png)
 <h1 align="center">Hi 👋, I'm Abu Rayhan Mouno</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Front-End+Developer" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/24c6287be76c155a12345cb131d1379589070ec28c94088f4582f19d3a1865e9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966" alt="Coding" width="400"/>
@@ -44,13 +47,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armouno&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArMOUNO&show_icons=true&theme=radical" alt="Stats" />
+</p>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-phi-hazel.vercel.app?user=ArMOUNO&theme=blueberry-duo" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=armouno&theme=radical" alt="Streak" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armouno&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArMOUNO&layout=compact&theme=radical" alt="Top Languages" />
 </p>
