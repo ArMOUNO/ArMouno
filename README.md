@@ -21,21 +21,23 @@
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/abu rayhan mouno" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://fb.com/ar mouno" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
   <a href="https://instagram.com/ar mouno" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" />
   </a>
 </p>
+
+
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,python,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,bootstrap,tailwind" />
 </p>
 
 ---
