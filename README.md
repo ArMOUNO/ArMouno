@@ -1,19 +1,23 @@
 ![logo](https://github.com/ArMOUNO/ArMouno/blob/main/Mnbanner.png)
 <h1 align="center">Hi 👋, I'm Abu Rayhan Mouno</h1>
 <h3 align="center">
-  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Front-End+Developer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/24c6287be76c155a12345cb131d1379589070ec28c94088f4582f19d3a1865e9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966" alt="Coding" width="400"/>
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=armouno&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://mouno.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=armouno&label=Profile%20views&color=0e75b6&style=flat" alt="armouno" /> </p>
+  
 
 ---
 
-### 🔥 About Me
+### 🔥 About Me 
 - 🔭 Currently working at **Suffix IT Limited**
 - 🌱 Learning: `Problem Solving`, `React.js`, `Advanced Frontend Techniques`
 - 📫 Reach me at: **mouno.cse118@gmail.com**
