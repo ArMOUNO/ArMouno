@@ -5,13 +5,19 @@
 </h3>
 
 <p align="center">
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=armouno&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  </a>
   <a href="https://mouno.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img 
+      src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=netlify&logoColor=white" 
+      alt="Portfolio" 
+    />
   </a>
+  <img 
+    src="https://komarev.com/ghpvc/?username=armouno&label=Profile%20views&color=0e75b6&style=for-the-badge" 
+    alt="Profile views" 
+  />
+  
 </p>
+
 
   
 
