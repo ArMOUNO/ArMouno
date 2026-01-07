@@ -25,7 +25,7 @@
 
 ### 🔥 About Me 
 
-- 🌱 Learning: `Problem Solving`, `React.js`, `Advanced Frontend Techniques`
+- 🌱 Learning: `Problem Solving`, `React.js`,`Next.js`, `Advanced Frontend Techniques`
 - 📫 Reach me at: **mouno.cse118@gmail.com**
 - ⚡ Fun Fact: *I’m pretty good at making bugs look like features 😄*
 
