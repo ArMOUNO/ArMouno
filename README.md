@@ -50,8 +50,9 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,bootstrap,tailwind" />
 </p>
+
 
 ---
 
