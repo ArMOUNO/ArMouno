@@ -1,4 +1,4 @@
-![logo](https://github.com/ArMOUNO/ArMouno/blob/main/Mnbanner.png)
+![logo](https://github.com/ArMOUNO/ArMouno/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Abu Rayhan Mouno</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Front-End+Developer" alt="Typing SVG" />
